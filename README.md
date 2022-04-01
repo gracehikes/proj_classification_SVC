@@ -14,7 +14,7 @@ My analysis scope:
 The classification heat maps and accuracy metrics indicated that the embeddings were somewhat predictive of the gender of the dating app user who wrote the essay. Gender prediction accuracy of 65%. Similar explorations by age group did not show classifications of good accuracies other than for those in their 20s.
 
 <p align="center">
-  <img src="https://github.com/gracehikes/proj_dating_essays_tSNE_clusters/blob/main/images/tSNE%20visual%20cluster%20by%20gender.png" width=95%>
+  <img src="https://github.com/gracehikes/proj_classification_SVC/blob/main/images/SVC%20classification%20gender.png" width=95%>
 </p>
 
 
