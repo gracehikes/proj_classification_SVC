@@ -1,17 +1,13 @@
 
 # Abstract
-Support Vector Machines (SVM) and Supported Vector Clustering (SVC) are some of the frequently used tools for the purposes of classification. Both are very powerful tools, with applications in both image and text classifications. Text analyses on what people write in their dating profile essays may help uncover similarities or differences for features like gender, age group, socio-economic status, etc.
+Support Vector Machines (SVM) and Supported Vector Clustering (SVC) are some of the frequently used tools for the purposes of classification. Both are very powerful tools, with applications in both image and text classification. Text analyses on what people write in their dating profile self-summaries may help uncover similarities or differences for features like gender, age group, socio-economic status, etc.
 
 
 # Methodology
 My analysis scope:
 * apply Google's Universal Sentence Encoder and get 512 embedding dimensions for each essay
-* apply SVC algorithum on the essays' embedding dimensions
-* review heat map and classification accuracy scores for gender and age
-
-<p align="center">
-  <img src="https://github.com/gracehikes/proj_dating_essays_tSNE_clusters/blob/main/images/essay%20lengths%2030%2070%20140%20example.png" width=70%>
-</p>
+* apply SVC algorithm on the embedding dimensions of essays, along with dating app user's gender and age group
+* review heat map and classification accuracy scores for gender and age group
 
 
 # Results
